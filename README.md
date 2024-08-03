@@ -1,0 +1,1 @@
+This is a webpage for game 'Sky-Children of The Light'. It shows the predictions of the shards eruption times. 
