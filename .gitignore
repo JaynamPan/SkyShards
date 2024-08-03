@@ -26,7 +26,7 @@ yarn-error.log*
 /out
 
 # If you have automatically generated documentation or reports
-/docs
+# here I use docs folder as Github Page root
 
 # If there are test-generated reports
 /coverage
